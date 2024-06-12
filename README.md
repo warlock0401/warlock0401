@@ -9,7 +9,7 @@ I'm Daffa, Informatics Student at Telkom University
 * 🌍  I'm based in Bandung
 * ✉️  You can contact me at [mdaffas.edwin@gmail.com](mailto:mdaffas.edwin@gmail.com)
 * 🚀  I'm currently studying on [Telkom University](http://telkomuniversity.ac.id/)
-* 🧠  I'm learning React.Js
+* 💻  I'm interested in developing and testing apps
 
 ### Skills
 
